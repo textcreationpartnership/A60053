@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short and true relation of the life and death of Sir Thomas Wentworth, Knight, Earle of Strafford ... who was beheaded on Tower-hill, the 12. of May, 1641, with certaine caveats to all men of what degree soever to take warning by his fall.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60053</idno><idno type="EEBO-CITATION">15060234</idno>
+  <idno type="VID">103132</idno>
+  <idno type="EEBO-PROQUEST">2240952826</idno>
+  
+            <idno type="STC">Wing S3557A</idno>
+            <idno type="STC">ESTC R35187</idno>
+            <idno type="OCLC">15060234</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1579:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short and true relation of the life and death of Sir Thomas Wentworth, Knight, Earle of Strafford ... who was beheaded on Tower-hill, the 12. of May, 1641, with certaine caveats to all men of what degree soever to take warning by his fall.</title>
+               </titleStmt>
+               <extent>[2], 8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. illus. with woodcut.</note>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103132:1"/>
+            <p>A SHORT AND TRVE RELATION OF The life and death of Sir <hi>Thomas Wentworth</hi> Knight, Earle of <hi>Strafford,</hi> Viscount <hi>Wentworth,</hi> Ba<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on <hi>Wentworth</hi> of <hi>Wentworth Wood-house, New-march, Oversley</hi> and <hi>Raby,</hi> Lord Lie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tenant Generall, and Generall Gover<g ref="char:EOLhyphen"/>nour of the Kingdome of <hi>Ireland,</hi> Lord President of the Counsell established in the North parts of <hi>England,</hi> Lord Lieutenant of the County and Citty of Yorke, and one of his Majesties most Honorable Privy Councell, and Knight of the most Noble Order of the Garter.</p>
+            <p>Who was beheaded on Tower-hill, the 12. of May, 1641.</p>
+            <p>With certaine Caveats to all men, of what degree soever, to take warning by his fall.</p>
+            <q>
+               <hi>Lege, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> diseas.</hi>
+            </q>
+            <figure>
+               <figDesc>woodcut of the beheading of the Earl of Strafford</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103132:2"/>
+            <pb n="1" facs="tcp:103132:2"/>
+            <head>A Short and true Relation, of the life and death of the Earle of <hi>Strafford.</hi>
+            </head>
+            <p>THe newes which now I shall divulge, hath (I know) beene long look<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for, (and at length is come to passe) else what was the meaning of that late out-cry by the Commons, to both Houses of Parliament for justice? Is any man sorry for the death of the Earle of <hi>Straff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd?</hi> I am sure Trades-men have but little reason for it. Their trading was so good all the time of his tryall, which was long and mercifull: But before I come to treat of his death, give me leave to speake a little of his life.</p>
+            <p>What his Parentage was, how borne, and where, it is not my purpose to trouble my selfe with, there be many in <hi>London</hi> which can relate that more true than my selfe; It is my intent to be briefe, wherefore I will beginne with him ri<g ref="char:EOLhyphen"/>sing.</p>
+            <p>In the time of King <hi>Iames,</hi> of blessed memory, who was more against that which he followed of late, than himselfe? no man living then, could more condemne and abhorre that way of living, than himselfe: but as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e grew greater in ho<g ref="char:EOLhyphen"/>nour, so he grew lesse in grace.</p>
+            <pb n="2" facs="tcp:103132:3"/>
+            <p>Whereas humility and equity he first affected, rising by preferment, he tooke upon him inju<g ref="char:EOLhyphen"/>stice and Pride, of which vice give me leave to treat a little, concerning which I cannot be<g ref="char:EOLhyphen"/>gin to speake without expressions fill'd with exclamations.</p>
+            <p>O how many thousands have fallen by this no<g ref="char:EOLhyphen"/>torious vice of Pride! by it the divell himselfe fell, and by this did our fore-father <hi>Adam</hi> fall: were it not for this vice of Pride, O how peaceably might we all live!</p>
+            <p>If there were no Pride, there would be no re<g ref="char:EOLhyphen"/>bellion; if no rebellion, no war; if no war, it must needs be granted that there would be no<g ref="char:EOLhyphen"/>thing else but peace▪ How many slaine bodies, and perhaps souls too▪ hath this one vice of Pride beene guilty of! as for example, read the Story of <hi>Caesar</hi> and <hi>Pompey,</hi> whose Prides were of so high a nature, that the one could not endure to heare of an equall, the other a Superiour: the Pride of which two bred a most bloudy civill war, throughout the whole world.</p>
+            <p>Read also the Story of <hi>Marcus Antonius,</hi> his Pride which had the whole Roman Empire under his subjection, except one <hi>Augustus</hi> which was in power and authority equall with him: And this mans Pride stit'd him againe, that he might raigne alone.</p>
+            <p>But to the purpose, which is concerning the Lord <hi>Wentworth,</hi> and his Treachery: This Vo<g ref="char:EOLhyphen"/>lume cannot containe the grievances, which by him have beene planted in <hi>England,</hi> Scotland, and <hi>Ireland:</hi> read but the Articles of which he was ac<g ref="char:EOLhyphen"/>cused, and then judge the man by his workes.</p>
+            <pb n="3" facs="tcp:103132:3"/>
+            <p>The name of a Traytor he disdained, but to use equi<g ref="char:EOLhyphen"/>ty it went against his conscience. That he had wisdom tis true, but he abus'd it, that is most certaine. What could a man have desired more then was granted to him? did he desire honour? he had it, as may appeare by his rising.</p>
+            <p>First it was but Mr. then Sr. <hi>Thomas Wentworth,</hi> then L. <hi>Wentworth,</hi> then Earle of <hi>Strafford,</hi> L. Lieutenant of <hi>Ireland,</hi> beside other Titles which his Royall Sove<g ref="char:EOLhyphen"/>raigne conferred upon him, but yet with all this was he not contented, but still sought after more.</p>
+            <p>Was it for want of wisedome he thus craved? surely no, for as I said before, wisedom hee had, but it was overshadowed with a maske of impudence, as by a wor<g ref="char:EOLhyphen"/>thy Patrone of piety, he was told in the High Court of Parliament.</p>
+            <p>Sophister-like for a long time, with his fallacies did he hold dispute against the whole Kingdome, but the most learned and wise House of Parliament, like true dis<g ref="char:EOLhyphen"/>putants a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> length dissolved them, and not long after made a dissolution of his head, and <hi>Eng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands</hi> grievances.</p>
+            <p>Did lie die undeservedly? who dares say so? nay who can say it? surely they are not <hi>England</hi> or <hi>Ireland,</hi> which can witnesse that (not long since) famous place of <hi>London-Derry</hi> in <hi>Ireland,</hi> belonging once unto the Citi<g ref="char:EOLhyphen"/>zens of <hi>London,</hi> which had, and bath so great plenty of wood, wher-with Spanish Pikes are made wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall, the Inhabitants whereof furnished our Kings Dominions suffici<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntly for their owne occasions, and then (because it was the commodity which they could best trafficke with, they sent some over the Seas to <hi>Holland,</hi> Nether<g ref="char:EOLhyphen"/>lands, or the like places; for which this man by a project he had made, <hi>London</hi> paying a great summe of money, lost its priviledge of the place, the chiefe Inhabitants left it, and the place now look<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s more like a desolate wildernesse then a place of re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne, as before it was;
+<pb n="4" facs="tcp:103132:4"/> his brethren projectors, perhaps may argue this for a deed of charity, but there is no true Christian but that may lawfully deny their hardest proposition, I will adde one or two more of his charitable deeds, and then let the whole world judge, whether this man was not worthy of death.</p>
+            <p>That he deserved death long since for his politick trea<g ref="char:EOLhyphen"/>chery he wrought against the English scarce any are ig<g ref="char:EOLhyphen"/>norant, wherefore I will passe that over, and show some tragicall stories by him acted and his complices in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> as for example sir <hi>Richard B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> Knight, Lord Chancellour of <hi>Ireland, Iohn</hi> Lord Bishop of <hi>Derry,</hi> Sir <hi>Gerard Lowther</hi> Knight, Lord Chiefe Justice of the com<g ref="char:EOLhyphen"/>mon Plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and sir <hi>George Raddisse</hi> Knight, intending the destruction of the Common-wealth of <hi>Ireland,</hi> tray<g ref="char:EOLhyphen"/>terously confederated and conspired together, to subvert the fundamentall Laws of that Kingdome, and in pursu<g ref="char:EOLhyphen"/>ance thereof they trai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erously contrived an arbitrary and tyrannicall government against Law thorowout the Kingdome, being countenanced and assisted by <hi>Thomas</hi> Earle of <hi>Strafford,</hi> he being then chiefe Governour of that Kingdome.</p>
+            <p>As appeared by the Articles against the afore-named person in the Parliament assembled in <hi>Ireland.</hi>
+            </p>
+            <p>What harme could such weake members have done, had they had no staffe to uphold them? in plaine tearms, one may lawfully say, they were brought up like so ma<g ref="char:EOLhyphen"/>ny young Spannels, to fetch &amp; carry what their Master pleased; I have my selfe knowne Dawes to follow their Masters whithersoever they went, and why may not Rookes which participate of their nature doe the same.</p>
+            <p>When the head hath an ache, the rest of the body is ill at ease: so when the Governour is tainted, his Counsell must needs stinke: but I proceed.</p>
+            <p>After he had prosecuted his intent concerning the sub<g ref="char:EOLhyphen"/>version of fundamentall Lawes, the better to preserve
+<pb n="5" facs="tcp:103132:4"/> him and his forenamed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erous confederates, he laboured to subvert the rights of Parliament, and the antient course of Parliamentary proceedings, lest his confederates being questioned in <hi>Ireland,</hi> he himselfe should bee convicted in <hi>England</hi> as hee now is: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull well he knew the afflictions which <hi>Ireland</hi> had endured, as the generall and apparent decay of Trades, occasioned by the new and illegall raising of the booke of Rates and Impositions, as 12 pence a piece custome for Hides, bought for 3, 4, or 5 shillings, and ma<g ref="char:EOLhyphen"/>ny other heavy impositions upon native and other com<g ref="char:EOLhyphen"/>modities exported, by the reason whereof Merchants are beggered, being disenabled and discouraged to trade; and some of the honorable persons as who gained thereby, were often judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and parties, but the Kings Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sties profit thereby was not considerably advanced: so as his treasury was full, he cared not how empty the Kings was, as appea<g ref="char:EOLhyphen"/>red by the Proclamation for the sole exemption of utte<g ref="char:EOLhyphen"/>ring Tobacco, which was bought at low rates, &amp; uttered at very high and exc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e rates, by means thereof thousands of families within the Kingdom of <hi>Ireland,</hi> &amp; of his Majesties subjects in severall Ilands &amp; other parts of the Westindies were destroyed, and the most part of the co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of that King<g ref="char:EOLhyphen"/>dome ingrossed into particular hands, insomuch as it was probably affirmed, the profit arising and engrossed there<g ref="char:EOLhyphen"/>by, di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> surmount his Majesties revenewes certaine and casu<g ref="char:EOLhyphen"/>all within that Kingdome, and yet his Majesty received ve<g ref="char:EOLhyphen"/>ry little profit by the same.</p>
+            <p>
+               <hi>Crassus</hi> the Roman, was accounted the richest man living in his time; but had not this man bin cut off, <hi>Crassus</hi> might have bin accounted a begger in comparison of him, his thousands yearely so encreased.</p>
+            <p>What a rare and gain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full plot was that of him, to cause a Proclamation in <hi>Ireland</hi> in the yeare of our Lord, 1635. prohibiting men of qual<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity and estate, for to depart that Kingdome into <hi>England</hi> without his licence, whereby the Subjects of <hi>Ireland</hi> were hindred and interrupted, from ha<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:103132:5"/> redresse and accesse to his <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Pri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Councell of <hi>England,</hi> to declare the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> just grievances, or to obt<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> just remedy for them, (in such sort as their Ances<gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in all ages, since the raigne of King Henry the second) g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fees being exacted for every of the said Licenses.</p>
+            <p>Should I goe about to relate all the grievances which poore <hi>Ireland,</hi> of late indured? what <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ty heart is there, which would not ready be to breake? what eyes could so ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren be of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eares, as would not g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh out fountaines? how they suffered in their goods, having them forcibly s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atched away.</p>
+            <p>I say, should I nominate how many thousand of his Ma<g ref="char:EOLhyphen"/>jesties liege people of that Kingdome, have beene ruined in their lands, Li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erties, and lives; and many of them being of good quality, and reputation, have beene <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>erly de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>med, by Pillory, Mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilation of Members, and many other infamous punishments, all would thinke it an incredible thing, that such plots and cruelty could be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arboured in the heart of any mortall man, the actions being so Diaboli<g ref="char:EOLhyphen"/>call.</p>
+            <p>As I did promise at the first to be briefe, so I doe intend▪ I will only give all exhortations to s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> his like, least here<g ref="char:EOLhyphen"/>after they participate of his death, who is now beheaded.</p>
+            <p>Art thou high, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> low? rich, or poore? Noble, or Igno<g ref="char:EOLhyphen"/>ble? still let thy eye be upon equity, regard not these worldly vanities, more than thy soule and bodies safety, bee still content with that thou hast; for things ill gotten never prosper. Let Lord <hi>Wentworth</hi> be an example to all; let his death cause us to have a care how we live: which that it may, God of his mercy grant, So bee it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
